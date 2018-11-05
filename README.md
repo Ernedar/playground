@@ -1,12 +1,14 @@
 # PLAYGROUND
-Current version: `0.0.0_beginning`
+Current version: `0.0.1_roadmap`
+
 Last update: `05. 11. 2018`
+
 Author: Jarda 'Ernedar' Fišer
 
 ## What Is Playground?
 Truth to be told, I really like coding. Better than programming itself. I like that I can see project growing under my hands. I started playing with web pages on middle school. That was 15 years ago. From that time, CSS, HTML and Javascript immensely evolved, and it will evolve till somebody will be interested in it. Playground is here to let me and maybe even you evolve with sort of free hands and some tools in your hands for that evolution.
 
-In 2015 I started as a junior coder in small company that mainly specialized on small client webs for small money. Bootstrap will be the first thing that will slip to everybody's mind. You are not far. Bootstrap was first think I was working with heavily as a coder. And it was... Pain. 
+In 2015 I started as a junior coder in small company that mainly specialized on small client webs for small money. Bootstrap will be the first thing that will slip to everybody's mind. You are not far. Bootstrap was first thing I was working with heavily as a coder. And it was... Pain. 
 
 So much pain that one day I started working on my own branch of something like boostrap. I was pissed on grid and its limitations, on carousel that was so not flexible that you needed !importants to change its properties. On menu where 4 classes were circles before the menu finished its animation, not speaking about that pile of crap I was required to use to have one button in responsive menu.
 
