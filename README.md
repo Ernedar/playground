@@ -32,15 +32,15 @@ So sit down and start playing. Enjoy!
 
 ##### 2. Variables
 TODO
-##### 3. "Sort of" Bootstrap Reset
+##### 3. Functions
 TODO
-##### 4. Functions
+##### 4. Base Mixins
 TODO
-##### 5. Base Mixins
+##### 5. Breakpoints
 TODO
-##### 6. Breakpoints
+##### 6. Fluid Measures
 TODO
-##### 7. Fluid Measures
+##### 7. "Sort of" Bootstrap Reset
 TODO
 ##### 8. Typography
 TODO
