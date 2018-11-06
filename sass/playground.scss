@@ -1,0 +1,33 @@
+// / PLAYGROUND SYSTEM BASE INFO
+// / Author: Jaroslav Fišer
+// / Version: 0.1.0
+// / Name: Playground SCSS System
+// / Web: http://playground-codes.cz/
+// / GitHub Repository: https://github.com/Ernedar/playground
+
+// / PLAYGROUND IMPORT ORDER
+// / File import order is prohibited to change. Otherwise system will not work properly.
+
+// / A) VARIABLES
+
+// / A.1) Variables for setting whole system in place such as base font size, function parameters, mixin input variables for measures etc.
+@import 'VARIABLES/private_var_base.scss';
+@import 'playground_public_var_base.scss';
+
+// / A.2) Basic settings of colors for white, black, social site logo colors, info panel colors etc.
+@import 'VARIABLES/private_var_color.scss';
+@import 'playground_public_var_color.scss';
+
+// / B) FUNCTIONS
+// / Structure placeholder file
+@import 'FUNCTIONS/private_fnc_base.scss';
+
+// / C) MIXINS
+// / Structure placeholder file
+@import 'MIXINS/private_mix_base.scss';
+
+// / D) COMPONENTS
+// / Structure placeholder file
+@import 'COMPONENTS/private_comp_base.scss';
+
+// / PLAYGROUND IMPORT ORDER END

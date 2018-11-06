@@ -1,7 +1,7 @@
 # PLAYGROUND
-Current version: `0.0.1_roadmap`
+Current version: `0.0.2_project structure`
 
-Last update: `05. 11. 2018`
+Last update: `06. 11. 2018`
 
 Author: Jarda 'Ernedar' Fišer
 
@@ -27,7 +27,9 @@ So sit down and start playing. Enjoy!
 
 ## Feature List and Development status
 ##### 1. Project Structure
-TODO
+
+[Playground Project File and Folder Structure](PROJECT_STRUCTURE.md)
+
 ##### 2. Variables
 TODO
 ##### 3. "Sort of" Bootstrap Reset
